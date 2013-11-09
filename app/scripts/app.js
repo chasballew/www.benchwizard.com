@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('benchwizardApp', [])
+angular.module('benchwizardApp', ['ngRoute'])
   .config(function ($routeProvider) {
     $routeProvider
       .when('/', {
