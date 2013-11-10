@@ -60,15 +60,21 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+#splash {
+    display: block;
+    height: 278px;
+    width: 360px;
+    background: url(../img/wizard.gif);
+    background-size: contain;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 150px;
+}
 
+.text-center {
+    text-align: center;
 
-
-
-
-
-
-
-
+}
 
 
 
